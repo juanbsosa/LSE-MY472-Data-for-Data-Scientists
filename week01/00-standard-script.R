@@ -16,3 +16,4 @@ y <- c(1,4,9,16,50)
 # Plotting the data
 plot(x,y)
 
+# Testing git
